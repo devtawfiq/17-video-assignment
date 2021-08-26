@@ -93,6 +93,7 @@ body h1 h2 h3 h4 h5 h6 a span {
     color: #828282;
     transition: .3s;
     font-weight: 500;
+    font-family: 'Work Sans', sans-serif;
 }
 .menu ul li:hover > a{
     color: #6278df;  
@@ -106,6 +107,7 @@ body h1 h2 h3 h4 h5 h6 a span {
     margin-top: 6px;
     margin-left: 5px;
     color: #6278df;
+    font-family: 'Work Sans', sans-serif;
 }
 .btn-primary a:hover{
     background: #6278df;
