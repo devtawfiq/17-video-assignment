@@ -147,6 +147,9 @@ body h1 h2 h3 h4 h5 h6 a span {
     border-bottom: 1px solid #e7e1e1;
     border-top: 1px solid #f1f1f1;
 }
+menu ul li ul li a{
+    font-family: 'Work Sans', sans-serif;
+}
 /* ------------ BAnner -------------- */
 .banner-section{
     background: url(./img/mbr-4.jpg) no-repeat center;
