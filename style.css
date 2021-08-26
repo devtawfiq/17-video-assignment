@@ -37,7 +37,7 @@ img{
     max-width: 100%;
 }
 body h1 h2 h3 h4 h5 h6 a span {
-    font-family: 'Work Sans', sans-serif;
+        font-family: 'Work Sans', sans-serif;
 }
 
 /* ---------------- Main Css -------------- */
@@ -211,7 +211,7 @@ menu ul li ul li a{
 }
 .video-content h2 {
     font-size: 44px;
-    font-weight: 400;
+    font-weight: 400;     
     font-family: 'Work Sans', sans-serif;
 }
 .video-content p {
